@@ -100,6 +100,7 @@ header h2 {
 
 #downloads {
   margin-bottom: 40px;
+  text-align: center;
 }
 
 a.button {
@@ -115,10 +116,9 @@ a.button {
   font-weight: bold;
   font-size: 15px;
   padding: 12px 8px 12px 8px;
-  display: block;
-  float: left;
+  display: inline-block;
   width: 179px;
-  margin-right: 14px;  
+  margin: 0 15px;  
   background: #fdfdfd; /* Old browsers */
   background: -moz-linear-gradient(top,  #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#f2f2f2)); /* Chrome,Safari4+ */
@@ -163,6 +163,10 @@ a.button span {
 }
 #view-on-github {
   /*margin-right: 0;*/
+}
+#map {
+  width: 100%;
+  height: 400px;
 }
 
 code, pre {
