@@ -411,9 +411,9 @@ Březina,549070,Jičín,CZ0522,Královéhradecký kraj,CZ052,50601,50.434394,15.
 Březina,577871,Svitavy,CZ0533,Pardubický kraj,CZ053,56923,49.651038,16.619713
 Březina,559733,Rokycany,CZ0326,Plzeňský kraj,CZ032,33824,49.807642,13.596901
 Březina,535567,Mladá Boleslav,CZ0207,Středočeský kraj,CZ020,29411,50.548647,15.032901
-Březina (dříve okres Blansko),581429,Brno-venkov,CZ0643,Jihomoravský kraj,CZ064,67905,49.282167,16.755163
-Březina (dříve okres Tišnov),582891,Brno-venkov,CZ0643,Jihomoravský kraj,CZ064,66601,49.281698,16.749623
-Březina (vojenský újezd),592935,Vyškov,CZ0646,Jihomoravský kraj,CZ064,79805,49.278671,16.996339
+Březina,581429,Brno-venkov,CZ0643,Jihomoravský kraj,CZ064,67905,49.282167,16.755163
+Březina,582891,Brno-venkov,CZ0643,Jihomoravský kraj,CZ064,66601,49.281698,16.749623
+Březina (vojenský újezd),592935,Vyškov,CZ0646,Jihomoravský kraj,CZ064,79805,49.368199,16.960939
 Březinky,572250,Svitavy,CZ0533,Pardubický kraj,CZ053,56943,49.662787,16.787030
 Březiny,577898,Svitavy,CZ0533,Pardubický kraj,CZ053,57201,49.690726,16.118233
 Březnice,552135,Tábor,CZ0317,Jihočeský kraj,CZ031,39171,49.251874,14.514089
@@ -1482,7 +1482,7 @@ Hradiště,566179,Domažlice,CZ0321,Plzeňský kraj,CZ032,34543,49.464875,13.051
 Hradiště,557749,Plzeň-jih,CZ0324,Plzeňský kraj,CZ032,33544,49.439432,13.756199
 Hradiště,541001,Rokycany,CZ0326,Plzeňský kraj,CZ032,33808,49.963121,13.717739
 Hradiště,532932,Benešov,CZ0201,Středočeský kraj,CZ020,25801,49.684271,14.848805
-Hradiště (vojenský újezd),555177,Karlovy Vary,CZ0412,Karlovarský kraj,CZ041,36006,50.173537,13.251971
+Hradiště (vojenský újezd),555177,Karlovy Vary,CZ0412,Karlovarský kraj,CZ041,36006,50.174549,13.046831
 Hradištko,537179,Nymburk,CZ0208,Středočeský kraj,CZ020,28912,50.165593,14.935157
 Hradištko,539252,Praha-západ,CZ020A,Středočeský kraj,CZ020,25209,49.870321,14.407963
 Hracholusky,550221,Prachatice,CZ0315,Jihočeský kraj,CZ031,38301,49.058900,14.088637
@@ -2613,7 +2613,7 @@ Lhoty u Potštejna,576441,Rychnov nad Kněžnou,CZ0524,Královéhradecký kraj,C
 Lhůta,578606,Plzeň-město,CZ0323,Plzeňský kraj,CZ032,33201,49.701370,13.528910
 Libá,554618,Cheb,CZ0411,Karlovarský kraj,CZ041,35131,50.128275,12.230943
 Libáň,573108,Jičín,CZ0522,Královéhradecký kraj,CZ052,50723,50.375516,15.216950
-Libavá (vojenský újezd),503941,Olomouc,CZ0712,Olomoucký kraj,CZ071,78501,49.636075,17.646421
+Libavá (vojenský újezd),503941,Olomouc,CZ0712,Olomoucký kraj,CZ071,78501,49.723088,17.523528
 Libavské Údolí,560502,Sokolov,CZ0413,Karlovarský kraj,CZ041,35751,50.128978,12.552602
 Libčany,570249,Hradec Králové,CZ0521,Královéhradecký kraj,CZ052,50322,50.191851,15.695007
 Libčeves,566349,Louny,CZ0424,Ústecký kraj,CZ042,43926,50.452574,13.838289
@@ -3002,8 +3002,8 @@ Měšice,538477,Praha-východ,CZ0209,Středočeský kraj,CZ020,25064,50.198097,1
 Měšín,587508,Jihlava,CZ0632,Kraj Vysočina,CZ063,58601,49.437406,15.657133
 Mešno,579084,Rokycany,CZ0326,Plzeňský kraj,CZ032,33843,49.655921,13.622053
 Metylovice,512184,Frýdek-Místek,CZ0802,Moravskoslezský kraj,CZ080,73949,49.606756,18.339222
-Mezholezy (dříve okres Domažlice),553921,Domažlice,CZ0321,Plzeňský kraj,CZ032,34506,49.411826,13.103952
-Mezholezy (dříve okres Horšovský Týn),553930,Domažlice,CZ0321,Plzeňský kraj,CZ032,34601,49.624867,12.905124
+Mezholezy,553921,Domažlice,CZ0321,Plzeňský kraj,CZ032,34506,49.411826,13.103952
+Mezholezy,553930,Domažlice,CZ0321,Plzeňský kraj,CZ032,34601,49.624867,12.905124
 Meziboří,567311,Most,CZ0425,Ústecký kraj,CZ042,43513,50.621260,13.598813
 Mezihoří,578461,Klatovy,CZ0322,Plzeňský kraj,CZ032,34012,49.488506,13.254671
 Mezilečí,574236,Náchod,CZ0523,Královéhradecký kraj,CZ052,55205,50.453464,15.983292
