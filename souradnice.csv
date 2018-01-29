@@ -358,6 +358,7 @@ Bratříkovice,553107,Opava,CZ0805,Moravskoslezský kraj,CZ080,74752,49.932674,1
 Bratřínov,571199,Praha-západ,CZ020A,Středočeský kraj,CZ020,25205,49.842681,14.340242
 Bravantice,556858,Nový Jičín,CZ0804,Moravskoslezský kraj,CZ080,74281,49.757218,18.082863
 Brázdim,538108,Praha-východ,CZ0209,Středočeský kraj,CZ020,25063,50.183633,14.588290
+Bražec,500101,Karlovy Vary,CZ0412,Karlovarský kraj,CZ041,36471,50.172681,13.046575
 Brdy (vojenský újezd),539996,Příbram,CZ020B,Středočeský kraj,CZ020,26223,49.789268,13.903243
 Brloh,545431,Český Krumlov,CZ0312,Jihočeský kraj,CZ031,38206,48.929980,14.218667
 Brloh,574791,Pardubice,CZ0532,Pardubický kraj,CZ053,53501,50.000688,15.557385
@@ -988,6 +989,7 @@ Doubravy,585181,Zlín,CZ0724,Zlínský kraj,CZ072,76345,49.142547,17.668211
 Doudleby,544400,České Budějovice,CZ0311,Jihočeský kraj,CZ031,37007,48.893631,14.501587
 Doudleby nad Orlicí,576301,Rychnov nad Kněžnou,CZ0524,Královéhradecký kraj,CZ052,51742,50.107644,16.261846
 Doupě,587079,Jihlava,CZ0632,Kraj Vysočina,CZ063,58856,49.236937,15.434721
+Doupovské Hradiště,500127,Karlovy Vary,CZ0412,Karlovarský kraj,CZ041,36272,50.250000,13.000000
 Drahanovice,501751,Olomouc,CZ0712,Olomoucký kraj,CZ071,78344,49.578656,17.077119
 Drahany,589462,Prostějov,CZ0713,Olomoucký kraj,CZ071,79861,49.433359,16.897488
 Drahelčice,531146,Praha-západ,CZ020A,Středočeský kraj,CZ020,25219,50.031926,14.203056
@@ -2251,6 +2253,7 @@ Kozlany,550108,Vyškov,CZ0646,Jihomoravský kraj,CZ064,68341,49.204170,17.035316
 Kozlany,590916,Třebíč,CZ0634,Kraj Vysočina,CZ063,67502,49.179832,16.061293
 Kozlov,568899,Havlíčkův Brod,CZ0631,Kraj Vysočina,CZ063,58401,49.734658,15.293073
 Kozlov,587427,Jihlava,CZ0632,Kraj Vysočina,CZ063,58821,49.413143,15.700567
+Kozlov,500135,Olomouc,CZ0712,Olomoucký kraj,CZ071,77200,49.603626,17.535662
 Kozlov,595888,Žďár nad Sázavou,CZ0635,Kraj Vysočina,CZ063,59451,49.379245,16.078773
 Kozlovice,598321,Frýdek-Místek,CZ0802,Moravskoslezský kraj,CZ080,73947,49.590494,18.256672
 Kozlovice,540200,Plzeň-jih,CZ0324,Plzeňský kraj,CZ032,33501,49.465098,13.582934
@@ -2820,6 +2823,7 @@ Lubné,596078,Brno-venkov,CZ0643,Jihomoravský kraj,CZ064,59451,49.354268,16.275
 Lubnice,594385,Znojmo,CZ0647,Jihomoravský kraj,CZ064,67107,48.939563,15.613963
 Lubník,580619,Ústí nad Orlicí,CZ0534,Pardubický kraj,CZ053,56301,49.888599,16.661647
 Luboměř,599646,Nový Jičín,CZ0804,Moravskoslezský kraj,CZ080,74235,49.688754,17.706584
+Luboměř pod Strážnou,500151,Přerov,CZ0714,Olomoucký kraj,CZ071,75362,49.689117,17.663752
 Luby,554634,Cheb,CZ0411,Karlovarský kraj,CZ041,35137,50.252592,12.406065
 Lučany nad Nisou,563692,Jablonec nad Nisou,CZ0512,Liberecký kraj,CZ051,46871,50.741456,15.220572
 Lučice,569062,Havlíčkův Brod,CZ0631,Kraj Vysočina,CZ063,58235,49.662406,15.496764
@@ -2997,6 +3001,7 @@ Městec Králové,537489,Nymburk,CZ0208,Středočeský kraj,CZ020,28903,50.20728
 Městečko,542067,Rakovník,CZ020C,Středočeský kraj,CZ020,27023,50.050739,13.863670
 Městečko Trnávka,578380,Svitavy,CZ0533,Pardubický kraj,CZ053,56941,49.709363,16.727541
 Město Albrechtice,597635,Bruntál,CZ0801,Moravskoslezský kraj,CZ080,79395,50.163036,17.574913
+Město Libavá,500160,Olomouc,CZ0712,Olomoucký kraj,CZ071,78307,49.721619,17.520135
 Město Touškov,559211,Plzeň-sever,CZ0325,Plzeňský kraj,CZ032,33033,49.775980,13.251189
 Měšice,538477,Praha-východ,CZ0209,Středočeský kraj,CZ020,25064,50.198097,14.520024
 Měšín,587508,Jihlava,CZ0632,Kraj Vysočina,CZ063,58601,49.437406,15.657133
@@ -3090,7 +3095,7 @@ Mistřice,592382,Uherské Hradiště,CZ0722,Zlínský kraj,CZ072,68712,49.086778
 Míškovice,588750,Kroměříž,CZ0721,Zlínský kraj,CZ072,76852,49.276669,17.549103
 Míšov,546399,Plzeň-jih,CZ0324,Plzeňský kraj,CZ032,33563,49.622664,13.725854
 Mišovice,549606,Písek,CZ0314,Jihočeský kraj,CZ031,39804,49.495358,14.005039
-MLADÁ BOLESLAV,535419,Mladá Boleslav,CZ0207,Středočeský kraj,CZ020,29301,50.413525,14.908538
+Mladá Boleslav,535419,Mladá Boleslav,CZ0207,Středočeský kraj,CZ020,29301,50.413525,14.908538
 Mladá Vožice,552704,Tábor,CZ0317,Jihočeský kraj,CZ031,39143,49.533230,14.808669
 Mladé Bříště,548383,Pelhřimov,CZ0633,Kraj Vysočina,CZ063,39443,49.491565,15.335272
 Mladé Buky,579548,Trutnov,CZ0525,Královéhradecký kraj,CZ052,54223,50.606524,15.833588
@@ -3947,6 +3952,7 @@ Polička,578576,Svitavy,CZ0533,Pardubický kraj,CZ053,57201,49.715034,16.265977
 Poličná,500071,Vsetín,CZ0723,Zlínský kraj,CZ072,75701,49.467058,17.943924
 Polkovice,516899,Přerov,CZ0714,Olomoucký kraj,CZ071,75144,49.391830,17.259275
 Polná,587711,Jihlava,CZ0632,Kraj Vysočina,CZ063,58813,49.487099,15.718914
+Polná na Šumavě,500194,Český Krumlov,CZ0312,Jihočeský kraj,CZ031,38226,48.805608,14.131502
 Polní Chrčice,513237,Kolín,CZ0204,Středočeský kraj,CZ020,28002,50.110106,15.296802
 Polní Voděrady,513148,Kolín,CZ0204,Středočeský kraj,CZ020,28002,49.992409,15.095338
 Polnička,596485,Žďár nad Sázavou,CZ0635,Kraj Vysočina,CZ063,59102,49.607595,15.916439
