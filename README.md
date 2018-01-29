@@ -2,7 +2,7 @@
 
 Databáze by měla obsahova **všechna města (obce) v ČR** k 1.1.2018
 
-Počet obcí v databázi je **6258** *(z toho 5 vojenských újezdů)*
+Počet obcí v databázi je **6259** *(z toho 5 vojenských újezdů)*
 
 Bez záruky, volně k použití
 
